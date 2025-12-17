@@ -81,8 +81,8 @@ I value **clean code**, **clear communication**, and **continuous learning**, an
 ---
 
 ## 📫 How to Reach Me
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(add your email here)*
+- 💼 [LinkedIn:](https://www.linkedin.com/in/felipepalmeiradev/)
+- 📧 Email: pro.felipefeitosa.jobs@gmail.com
 
 ---
 
