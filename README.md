@@ -81,7 +81,7 @@ I value **clean code**, **clear communication**, and **continuous learning**, an
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn:](https://www.linkedin.com/in/felipepalmeiradev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipepalmeiradev/)
 
 
 ---
